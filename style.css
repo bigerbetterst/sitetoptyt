@@ -1,0 +1,22 @@
+/* COPYRIGHT. JAER.CF/COPY-LICENSE */
+@font-face {
+    font-family: 'Gilroy';
+    src: local('fonts/Gilroy Bold'), local('Gilroy-Bold'),
+        url('fonts/Gilroy-Bold.woff2') format('woff2'),
+        url('fonts/Gilroy-Bold.woff') format('woff'),
+        url('fonts/Gilroy-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Goldplay';
+    src: local('fonts/Goldplay-SemiBold'), local('Goldplay-SemiBold'),
+        url('fonts/Goldplay-SemiBold.woff2') format('woff2'),
+        url('fonts/Goldplay-SemiBold.woff') format('woff'),
+        url('fonts/Goldplay-SemiBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+* {
+    font-family: 'Gilroy';
+}
